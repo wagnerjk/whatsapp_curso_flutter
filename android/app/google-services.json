@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918866281981",
+    "project_id": "whastsapp-b65b5",
+    "storage_bucket": "whastsapp-b65b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918866281981:android:279b4e02f89692c2124594",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918866281981-i1jsgs0ct85e3infcsrsrcfb124kre6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRAwFPPeRU11rWYLIUzT1lRL0kLGrLvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918866281981-i1jsgs0ct85e3infcsrsrcfb124kre6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
